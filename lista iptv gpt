@@ -1,0 +1,53 @@
+#EXTM3U
+
+#########################
+# 📺 Canais Públicos Brasil
+#########################
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TV_Brasil_logo.png" group-title="TV Brasil", TV Brasil
+https://tvbrasil-stream.ebc.com.br/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TV_Camara_logo_2019.png" group-title="TV Brasil", TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/TV_Senado_logo.png" group-title="TV Brasil", TV Senado
+https://stream.senado.gov.br/live/channel2/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/TV_Justica_logo.png" group-title="TV Brasil", TV Justiça
+https://streaming2.tvdigitalhd.com.br/tvjustica/tvjustica/chunklist_w1692198957.m3u8
+
+
+#########################
+# 🌍 Canais Internacionais
+#########################
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/NASA_TV_logo.svg/512px-NASA_TV_logo.svg.png" group-title="Internacional", NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DW-TV.svg/512px-DW-TV.svg.png" group-title="Internacional", DW News (Alemanha)
+https://dwamdstream104.akamaized.net/hls/live/2015525/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/France24_logo.png" group-title="Internacional", France 24 (Inglês)
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+
+#########################
+# 📻 Rádios Online
+#########################
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Radio_icon.svg" group-title="Rádio", Rádio BBC News (Inglês)
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Radio_icon.svg" group-title="Rádio", Rádio Jovem Pan News (Brasil)
+https://streaming.jovempan.com.br/news.m3u8
+
+
+#########################
+# 📷 Webcams / Ao Vivo
+#########################
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/TV_icon_2.svg" group-title="Webcams", Praia de Copacabana - RJ
+https://stmv1.srvif.com/camerario/camerario/chunklist_w1179961347.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/TV_icon_2.svg" group-title="Webcams", Times Square - Nova York
+https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist.m3u8
