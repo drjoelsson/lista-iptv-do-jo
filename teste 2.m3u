@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Radio_icon.svg/1024px-Radio_icon.svg.png" group-title="Rádios", Rádio BBC News (Inglês)
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Earth_icon_2.svg/800px-Earth_icon_2.svg.png" group-title="Webcams", Praia de Copacabana - Rio de Janeiro (Ao Vivo)
+https://stmv1.srvif.com/camerario/camerario/chunklist_w1179961347.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TV_icon_2.svg/1024px-TV_icon_2.svg.png" group-title="TV Pública", NASA TV (Oficial)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Globo_logo_2022.svg/320px-Globo_logo_2022.svg.png" group-title="TV Aberta Brasil", TV Brasil
+https://tvbrasil-stream.ebc.com.br/hls/live.m3u8
