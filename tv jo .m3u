@@ -3,6 +3,8 @@
 ###############
 # 📺 Canais do Brasil
 ###############
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2022/01/04/google-drive.png" group-title="CANAIS DE FILMES", drive
+https://drive.google.com/drive/folders/1dLqgWmstRF6k_VTcVFgEd9jigR3207-E?usp=drive_link
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TV_Brasil_logo.png" group-title="Brasil", TV Brasil
 https://tvbrasil-stream.ebc.com.br/hls/live.m3u8
